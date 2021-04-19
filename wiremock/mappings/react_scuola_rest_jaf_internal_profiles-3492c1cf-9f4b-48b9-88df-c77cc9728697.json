@@ -1,0 +1,22 @@
+{
+  "id" : "3492c1cf-9f4b-48b9-88df-c77cc9728697",
+  "name" : "mock_rubrica_rest_jaf_internal_profiles",
+  "request" : {
+    "url" : "/mock_rubrica/rest/jaf/internal/profiles",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "[{\"profile\":0,\"description\":\"Tutto fare\",\"dprofile\":null}]",
+    "headers" : {
+      "Server" : "Resin/4.0.63",
+      "Content-Type" : "application/json",
+      "Date" : "Mon, 19 Apr 2021 14:12:49 GMT"
+    }
+  },
+  "uuid" : "3492c1cf-9f4b-48b9-88df-c77cc9728697",
+  "persistent" : true,
+  "scenarioName" : "scenario-2-mock_rubrica-rest-jaf-internal-profiles",
+  "requiredScenarioState" : "scenario-2-mock_rubrica-rest-jaf-internal-profiles-2",
+  "insertionIndex" : 46
+}

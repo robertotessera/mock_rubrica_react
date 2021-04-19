@@ -1,0 +1,20 @@
+{
+  "id" : "c66b18e8-6c07-4760-b686-889c3ae1af0a",
+  "name" : "mock_rubrica_rest_jaf_internal_user",
+  "request" : {
+    "url" : "/mock_rubrica/rest/jaf/internal/user",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"idPersona\":677175,\"codicePersona\":\"10677175\",\"cognome\":\"TESSERA\",\"nome\":\"ROBERTO\",\"matricola\":\"\",\"idPersonaImp\":null,\"codicePersonaImp\":null,\"cognomeImp\":null,\"nomeImp\":null,\"idFoto\":null,\"description\":\"ROBERTO TESSERA\",\"initials\":\"RT\",\"targetURL\":null}",
+    "headers" : {
+      "Server" : "Resin/4.0.63",
+      "Content-Type" : "application/json",
+      "Date" : "Mon, 19 Apr 2021 14:12:50 GMT"
+    }
+  },
+  "uuid" : "c66b18e8-6c07-4760-b686-889c3ae1af0a",
+  "persistent" : true,
+  "insertionIndex" : 48
+}

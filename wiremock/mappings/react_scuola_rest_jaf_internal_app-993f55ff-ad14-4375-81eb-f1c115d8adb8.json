@@ -1,0 +1,20 @@
+{
+  "id" : "993f55ff-ad14-4375-81eb-f1c115d8adb8",
+  "name" : "mock_rubrica_rest_jaf_internal_app",
+  "request" : {
+    "url" : "/mock_rubrica/rest/jaf/internal/app",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"description\":\"REACT Scuola\",\"controllerVersion\":\"1.0.0\",\"viewVersion\":\"1.0.0\",\"capplication\":35010,\"dbTest\":true}",
+    "headers" : {
+      "Server" : "Resin/4.0.63",
+      "Content-Type" : "application/json",
+      "Date" : "Mon, 19 Apr 2021 14:12:50 GMT"
+    }
+  },
+  "uuid" : "993f55ff-ad14-4375-81eb-f1c115d8adb8",
+  "persistent" : true,
+  "insertionIndex" : 49
+}

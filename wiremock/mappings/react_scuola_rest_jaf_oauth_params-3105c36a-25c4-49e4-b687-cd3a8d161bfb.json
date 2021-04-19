@@ -1,0 +1,20 @@
+{
+  "id" : "3105c36a-25c4-49e4-b687-cd3a8d161bfb",
+  "name" : "mock_rubrica_rest_jaf_oauth_params",
+  "request" : {
+    "url" : "/mock_rubrica/rest/jaf/oauth/params",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"oauthServer\":\"http://localhost:3000/mock_rubrica/app?code=fakeCode&state\",\"responseType\":\"code\",\"clientId\":\"1057407810\",\"scope\":\"openid mock_rubrica\",\"accessType\":\"offline\"}",
+    "headers" : {
+      "Server" : "Resin/4.0.63",
+      "Content-Type" : "application/json",
+      "Date" : "Mon, 19 Apr 2021 14:12:40 GMT"
+    }
+  },
+  "uuid" : "3105c36a-25c4-49e4-b687-cd3a8d161bfb",
+  "persistent" : true,
+  "insertionIndex" : 42
+}

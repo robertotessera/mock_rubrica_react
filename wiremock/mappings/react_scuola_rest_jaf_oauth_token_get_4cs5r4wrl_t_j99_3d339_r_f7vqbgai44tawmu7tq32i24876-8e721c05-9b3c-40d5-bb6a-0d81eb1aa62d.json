@@ -1,0 +1,20 @@
+{
+  "id" : "8e721c05-9b3c-40d5-bb6a-0d81eb1aa62d",
+  "name" : "mock_rubrica_rest_jaf_oauth_token_get_4cs5r4wrl_t_j99_3d339_r_f7vqbgai44tawmu7tq32i24876",
+  "request" : {
+    "urlPathPattern" : "/mock_rubrica/rest/jaf/oauth/token/get/([a-zA-Z0-9_])*",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"accessToken\":\"Xb73zs45EBd8u_J5_IN3462___4x682YH42ur289n9zt34d5Bz\",\"refreshToken\":\"39FcUs_F__VTz3B97k52_72_3b88v49H7W5t76gWd39i2L5J2c\",\"expiresIn\":1800}",
+    "headers" : {
+      "Server" : "Resin/4.0.63",
+      "Content-Type" : "application/json",
+      "Date" : "Mon, 19 Apr 2021 14:12:48 GMT"
+    }
+  },
+  "uuid" : "8e721c05-9b3c-40d5-bb6a-0d81eb1aa62d",
+  "persistent" : true,
+  "insertionIndex" : 43
+}
